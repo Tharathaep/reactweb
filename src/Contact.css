@@ -1,0 +1,144 @@
+.contact-page {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 40px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-page h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .contact-page p {
+    text-align: center;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-group label {
+    margin-bottom: 5px;
+    color: #444;
+    font-weight: bold;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .form-group textarea {
+    resize: none;
+    height: 100px;
+  }
+  
+  .submit-button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .business-card {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #fff;
+    text-align: left;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .business-card h3 {
+    color: #333;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  .business-card p {
+    margin: 5px 0;
+    color: #444;
+  }
+  
+  .business-card strong {
+    color: #000;
+  }
+  .business-card {
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid #007bff;
+    border-radius: 15px;
+    background: linear-gradient(145deg, #ffffff, #e6e6e6);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1), -4px -4px 10px rgba(255, 255, 255, 0.5);
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  .business-card h3 {
+    color: #007bff;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    font-weight: bold;
+  }
+  
+  .business-card p {
+    margin: 8px 0;
+    font-size: 1em;
+    color: #555;
+  }
+  
+  .business-card strong {
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .business-card a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .business-card a:hover {
+    text-decoration: underline;
+  }
+  
+  .business-card-icon {
+    margin-bottom: 15px;
+  }
+  
+  .business-card-icon img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #007bff;
+  }
+  
